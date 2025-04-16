@@ -13,8 +13,7 @@
 *{
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
-    font-family: var(--fonte-segundaria);
+    
 }
 
 body {
@@ -127,7 +126,7 @@ body {
     font-weight: 400;
 }
 
-@media (max-width: 768px){
+@media (max-width: 1200px){
     .cabecalho{
         padding: 5%;
     }    
