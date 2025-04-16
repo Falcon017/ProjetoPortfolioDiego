@@ -143,5 +143,10 @@ body {
     .apresentacao__conteudo{
         width: auto;
     }
-    
+    .apresentacao__links__navegacao {
+        width: 100%;
+        font-size: 1.2rem;
+        flex-wrap: nowrap;
+        white-space: nowrap;
+    }
 }
